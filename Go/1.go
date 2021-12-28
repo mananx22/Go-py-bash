@@ -15,7 +15,7 @@ import (
 	"fmt"
 )
 
-var global = "manan" //we can remove data type
+var global = "manan tunsa" //we can remove data type
 var global2 int = 25
 
 func main() {
